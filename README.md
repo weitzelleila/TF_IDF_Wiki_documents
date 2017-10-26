@@ -1,5 +1,3 @@
-# document_retrieval
+# TF-IDF on Wikipedia Corpus
 
-TF-IDF on Wikipedia Corpus
-
-Report: 
+Report: https://github.com/androsova/TF_IDF_Wiki_documents/blob/master/Document%20Retrieval.ipynb
